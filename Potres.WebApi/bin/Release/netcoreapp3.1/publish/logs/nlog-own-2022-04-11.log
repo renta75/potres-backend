@@ -1,7 +1,0 @@
-2022-04-11 18:21:27.6555|0|Potres.WebApi.Program|DEBUG|  init main |url: ?|action: | 
-2022-04-11 18:43:41.0110|0|Potres.WebApi.Program|DEBUG|  init main |url: ?|action: | 
-2022-04-11 19:06:44.6664|0|PlugAndPlay.WebApi.Program|DEBUG|  init main |url: ?|action: | 
-2022-04-11 19:06:44.9769|0|PlugAndPlay.WebApi.Program|ERROR|  Stopped program because of exception Could not load file or assembly 'PlugAndPlay.AuditLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.|url: ?|action: | 
-2022-04-11 19:07:15.8677|0|Potres.WebApi.Program|DEBUG|  init main |url: ?|action: | 
-2022-04-11 19:18:27.9843|0|Potres.WebApi.Program|DEBUG|  init main |url: ?|action: | 
-2022-04-11 19:32:26.9293|0|Potres.WebApi.Program|DEBUG|  init main |url: ?|action: | 
