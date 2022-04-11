@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Potres.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Potres.WebApi.Controllers.CRUDController`7.GetAll(Potres.WebApi.Models.LoadParams)">
+            <summary>
+            Get all items based on (lazy) load parameters (paging and/or filtering)
+            </summary>
+            <param name="loadParams"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Potres.WebApi.Controllers.CRUDController`7.Count(System.String)">
+            <summary>
+            Returns number of items that satisfies filter parameters
+            Note: Filter must be supported by the corresponding query handler
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Potres.WebApi.Controllers.CRUDController`7.Get(System.Int32)">
+            <summary>
+            Returns single item based on primary key value
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Potres.WebApi.Controllers.CRUDController`7.Create(`0)">
+            <summary>
+            Creates a new item.    
+            </summary>
+            <param name="model">id does not have to be sent (if sent it would be ignored)</param>
+            <returns>A newly created item</returns>
+            <response code="201">Returns route to newly created item and sent data updated with id</response>
+            <response code="400">If the model is null or not valid</response>            
+        </member>
+        <member name="M:Potres.WebApi.Controllers.CRUDController`7.Update(System.Int32,`2)">
+            <summary>
+            Update the item
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Potres.WebApi.Controllers.CRUDController`7.Delete(System.Int32)">
+            <summary>
+            Delete the item base on primary key value (id)
+            </summary>
+            <param name="id">Primary key value</param>
+            <returns></returns>
+            <response code="204">If the item is deleted</response>
+            <response code="404">If the item with id does not exist</response>      
+        </member>
+        <member name="T:Potres.WebApi.Models.LoadParams">
+            <summary>
+            Map lazy loading parameters (e.g. from PrimeNG table)
+            </summary>   
+        </member>
+        <member name="P:Potres.WebApi.Models.LoadParams.First">
+            <summary>
+            Starting row (i.e. skips First-1 rows)
+            </summary>
+        </member>
+        <member name="P:Potres.WebApi.Models.LoadParams.Rows">
+            <summary>
+            Number of elements to return
+            </summary>
+        </member>
+        <member name="P:Potres.WebApi.Models.LoadParams.Sort">
+            <summary>
+            Name of a column. Must be same as in corresponding DTO object, case insensitive
+            </summary>
+        </member>
+        <member name="P:Potres.WebApi.Models.LoadParams.SortOrder">
+            <summary>
+            1 ascending, -1 descending
+            </summary>
+        </member>
+        <member name="P:Potres.WebApi.Models.LoadParams.Filter">
+            <summary>
+            Search filter. Contains pairs key=value separated by comma (e.g. client=Bob,agency=TNT)
+            </summary>
+        </member>
+    </members>
+</doc>

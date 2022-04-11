@@ -1,0 +1,15 @@
+C:\development\matrica\potres-backend\Potres.AuditLogging\bin\Debug\netstandard2.0\Potres.AuditLogging.deps.json
+C:\development\matrica\potres-backend\Potres.AuditLogging\bin\Debug\netstandard2.0\Potres.AuditLogging.dll
+C:\development\matrica\potres-backend\Potres.AuditLogging\bin\Debug\netstandard2.0\Potres.AuditLogging.pdb
+C:\development\matrica\potres-backend\Potres.AuditLogging\bin\Debug\netstandard2.0\Potres.Common.dll
+C:\development\matrica\potres-backend\Potres.AuditLogging\bin\Debug\netstandard2.0\Potres.Contracting.dll
+C:\development\matrica\potres-backend\Potres.AuditLogging\bin\Debug\netstandard2.0\Potres.Common.pdb
+C:\development\matrica\potres-backend\Potres.AuditLogging\bin\Debug\netstandard2.0\Potres.Contracting.pdb
+C:\development\matrica\potres-backend\Potres.AuditLogging\obj\Debug\netstandard2.0\Potres.AuditLogging.csproj.AssemblyReference.cache
+C:\development\matrica\potres-backend\Potres.AuditLogging\obj\Debug\netstandard2.0\Potres.AuditLogging.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\matrica\potres-backend\Potres.AuditLogging\obj\Debug\netstandard2.0\Potres.AuditLogging.AssemblyInfoInputs.cache
+C:\development\matrica\potres-backend\Potres.AuditLogging\obj\Debug\netstandard2.0\Potres.AuditLogging.AssemblyInfo.cs
+C:\development\matrica\potres-backend\Potres.AuditLogging\obj\Debug\netstandard2.0\Potres.AuditLogging.csproj.CoreCompileInputs.cache
+C:\development\matrica\potres-backend\Potres.AuditLogging\obj\Debug\netstandard2.0\Potres.AuditLogging.csproj.CopyComplete
+C:\development\matrica\potres-backend\Potres.AuditLogging\obj\Debug\netstandard2.0\Potres.AuditLogging.dll
+C:\development\matrica\potres-backend\Potres.AuditLogging\obj\Debug\netstandard2.0\Potres.AuditLogging.pdb

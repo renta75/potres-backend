@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\development\matrica\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-04-11T17:04:58.3657532Z;True|2022-04-11T18:43:27.3887309+02:00;True|2022-02-27T15:53:36.6314762+01:00;True|2022-02-27T15:46:21.8998498+01:00;True|2022-02-27T07:34:40.9824297+01:00;True|2022-02-27T07:25:31.2826621+01:00;True|2022-02-26T22:37:40.4801542+01:00;</History>
+  </PropertyGroup>
+</Project>

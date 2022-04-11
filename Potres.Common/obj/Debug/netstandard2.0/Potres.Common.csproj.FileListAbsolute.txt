@@ -1,0 +1,10 @@
+C:\development\matrica\potres-backend\Potres.Common\bin\Debug\netstandard2.0\Potres.Common.deps.json
+C:\development\matrica\potres-backend\Potres.Common\bin\Debug\netstandard2.0\Potres.Common.dll
+C:\development\matrica\potres-backend\Potres.Common\bin\Debug\netstandard2.0\Potres.Common.pdb
+C:\development\matrica\potres-backend\Potres.Common\obj\Debug\netstandard2.0\Potres.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\matrica\potres-backend\Potres.Common\obj\Debug\netstandard2.0\Potres.Common.AssemblyInfoInputs.cache
+C:\development\matrica\potres-backend\Potres.Common\obj\Debug\netstandard2.0\Potres.Common.AssemblyInfo.cs
+C:\development\matrica\potres-backend\Potres.Common\obj\Debug\netstandard2.0\Potres.Common.csproj.CoreCompileInputs.cache
+C:\development\matrica\potres-backend\Potres.Common\obj\Debug\netstandard2.0\Potres.Common.dll
+C:\development\matrica\potres-backend\Potres.Common\obj\Debug\netstandard2.0\Potres.Common.pdb
+C:\development\matrica\potres-backend\Potres.Common\obj\Debug\netstandard2.0\Potres.Common.csproj.AssemblyReference.cache

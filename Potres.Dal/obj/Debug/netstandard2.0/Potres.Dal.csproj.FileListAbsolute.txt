@@ -1,0 +1,13 @@
+C:\development\matrica\potres-backend\Potres.Dal\bin\Debug\netstandard2.0\Potres.Dal.deps.json
+C:\development\matrica\potres-backend\Potres.Dal\bin\Debug\netstandard2.0\Potres.Dal.dll
+C:\development\matrica\potres-backend\Potres.Dal\bin\Debug\netstandard2.0\Potres.Dal.pdb
+C:\development\matrica\potres-backend\Potres.Dal\bin\Debug\netstandard2.0\Potres.Contracting.dll
+C:\development\matrica\potres-backend\Potres.Dal\bin\Debug\netstandard2.0\Potres.Contracting.pdb
+C:\development\matrica\potres-backend\Potres.Dal\obj\Debug\netstandard2.0\Potres.Dal.csproj.AssemblyReference.cache
+C:\development\matrica\potres-backend\Potres.Dal\obj\Debug\netstandard2.0\Potres.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\matrica\potres-backend\Potres.Dal\obj\Debug\netstandard2.0\Potres.Dal.AssemblyInfoInputs.cache
+C:\development\matrica\potres-backend\Potres.Dal\obj\Debug\netstandard2.0\Potres.Dal.AssemblyInfo.cs
+C:\development\matrica\potres-backend\Potres.Dal\obj\Debug\netstandard2.0\Potres.Dal.csproj.CoreCompileInputs.cache
+C:\development\matrica\potres-backend\Potres.Dal\obj\Debug\netstandard2.0\Potres.Dal.csproj.CopyComplete
+C:\development\matrica\potres-backend\Potres.Dal\obj\Debug\netstandard2.0\Potres.Dal.dll
+C:\development\matrica\potres-backend\Potres.Dal\obj\Debug\netstandard2.0\Potres.Dal.pdb

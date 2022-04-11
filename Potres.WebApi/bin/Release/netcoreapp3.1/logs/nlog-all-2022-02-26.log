@@ -1,0 +1,14 @@
+2022-02-26 22:38:23.9002||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-26 22:38:29.5647||0|Microsoft.AspNetCore.Server.Kestrel|FATAL|Unable to start Kestrel. Failed to bind to address http://0.0.0.0:4800: address already in use.| 
+2022-02-26 22:40:19.7738||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-26 22:40:20.5606||0|Microsoft.AspNetCore.Server.Kestrel|FATAL|Unable to start Kestrel. Failed to bind to address https://0.0.0.0:6400: address already in use.| 
+2022-02-26 22:41:02.1736||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-26 22:41:02.9358||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-26 22:41:02.9543||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-26 22:41:02.9543||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-26 22:41:02.9543||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-26 22:41:02.9543||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1 | 
+2022-02-26 22:51:17.1401|0HMFPE8ELEOLC:00000001|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Could not find file 'C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\Potres.WebApi.xml'.|OPTIONS 
+2022-02-26 22:51:30.5929|0HMFPE8ELEOLD:00000001|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Could not find file 'C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\Potres.WebApi.xml'.|OPTIONS 
+2022-02-26 22:51:46.5967|0HMFPE8ELEOLE:00000001|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Could not find file 'C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\Potres.WebApi.xml'.|OPTIONS 
+2022-02-26 22:53:23.8574|0HMFPE8ELEOLF:00000001|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Could not find file 'C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\Potres.WebApi.xml'.|OPTIONS 

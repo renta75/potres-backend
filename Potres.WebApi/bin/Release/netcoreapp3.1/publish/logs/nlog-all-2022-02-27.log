@@ -1,0 +1,298 @@
+2022-02-27 07:26:02.0359||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 07:26:04.4455||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-27 07:26:04.4640||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-27 07:26:04.4640||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-27 07:26:04.4640||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-27 07:26:04.4640||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish | 
+2022-02-27 07:26:27.8466|0HMFPN8AIAS6P:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 07:26:42.6045|0HMFPN8AIAS6P:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 07:26:42.6045|0HMFPN8AIAS6P:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 07:26:42.6045|0HMFPN8AIAS6P:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 07:27:18.4016|0HMFPN8AIAS6P:00000021|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:23.3400|0HMFPN8AIAS6P:00000025|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:24.0918|0HMFPN8AIAS6P:00000027|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:24.2598|0HMFPN8AIAS6P:00000029|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:24.4801|0HMFPN8AIAS6P:0000002B|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:24.6741|0HMFPN8AIAS6P:0000002D|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:24.8437|0HMFPN8AIAS6P:0000002F|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:25.1944|0HMFPN8AIAS6P:00000031|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:25.2832|0HMFPN8AIAS6P:00000033|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:27:25.3645|0HMFPN8AIAS6P:00000035|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:34:45.8151||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 07:34:47.6170||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-27 07:34:47.6313||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-27 07:34:47.6313||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-27 07:34:47.6313||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-27 07:34:47.6313||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish | 
+2022-02-27 07:35:05.3586|0HMFPND4GQGR6:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:35:35.4422|0HMFPND4GQGR6:00000007|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 07:35:48.2934|0HMFPND4GQGR6:0000000B|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 13:04:33.3778|0HMFPND4GQH5B:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 13:04:47.9413|0HMFPND4GQH5B:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 13:05:02.4739|0HMFPND4GQH5B:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 13:05:02.4739|0HMFPND4GQH5B:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:39:08.1959|0HMFPND4GQH5F:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. Handler was not found for request of type MediatR.IRequestHandler`2[Potres.Contracting.Commands.AddUserCommand,System.Int32]. Register your handlers with the container. See the samples in GitHub for examples.|POST 
+2022-02-27 15:46:33.5769||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 15:46:39.4422||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-27 15:46:39.4538||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-27 15:46:39.4538||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-27 15:46:39.4538||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-27 15:46:39.4538||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish | 
+2022-02-27 15:47:09.6487|0HMFQ0033FQL2:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:47:24.4194|0HMFQ0033FQL2:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:47:24.4312|0HMFQ0033FQL2:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:47:24.4312|0HMFQ0033FQL2:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:47:24.5605|0HMFQ0033FQL2:00000003|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (27ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [User] ([FirstName], [LastName], [Name], [Password])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [User]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); |POST 
+2022-02-27 15:47:24.6143|0HMFQ0033FQL2:00000003|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'Potres.Dal.Model.PotresContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Potres.dbo.User'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:435d653f-85cd-4155-912c-11cbbd3c4849
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:47:24.7943|0HMFQ0033FQL2:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:51:39.6075||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 15:51:39.7472||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 15:51:41.0493||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-27 15:51:41.0675||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-27 15:51:41.0675||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-27 15:51:41.0733||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-27 15:51:41.0733||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish | 
+2022-02-27 15:51:48.8760||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 15:51:50.1624||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-27 15:51:50.1755||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-27 15:51:50.1755||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-27 15:51:50.1755||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-27 15:51:50.1755||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish | 
+2022-02-27 15:51:55.8379|0HMFQ02OPUEDV:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:52:10.5140|0HMFQ02OPUEDV:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:52:10.5140|0HMFQ02OPUEDV:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:52:10.5268|0HMFQ02OPUEDV:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:52:10.6421|0HMFQ02OPUEDV:00000003|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (7ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [User] ([FirstName], [LastName], [Name], [Password])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [User]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); |POST 
+2022-02-27 15:52:10.6863|0HMFQ02OPUEDV:00000003|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'Potres.Dal.Model.PotresContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Potres.dbo.User'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:d9ae7247-52cb-41f1-9cdb-eb8f69636c28
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:52:10.7848|0HMFQ02OPUEDV:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:52:30.5969|0HMFQ02OPUEDV:00000007|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (3ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [User] ([FirstName], [LastName], [Name], [Password])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [User]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); |POST 
+2022-02-27 15:52:45.1635|0HMFQ02OPUEDV:00000007|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'Potres.Dal.Model.PotresContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Potres.dbo.User'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:d9ae7247-52cb-41f1-9cdb-eb8f69636c28
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:52:45.2130|0HMFQ02OPUEDV:00000007|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:53:43.4537||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 15:53:45.2210||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-27 15:53:45.2390||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-27 15:53:45.2390||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-27 15:53:45.2460||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-27 15:53:45.2460||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish | 
+2022-02-27 15:53:51.8519|0HMFQ03RBAAUI:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:54:06.5057|0HMFQ03RBAAUI:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:54:06.5126|0HMFQ03RBAAUI:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:54:06.5126|0HMFQ03RBAAUI:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:54:06.6229|0HMFQ03RBAAUI:00000003|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (7ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [User] ([FirstName], [LastName], [Name], [Password])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [User]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); |POST 
+2022-02-27 15:54:06.6672|0HMFQ03RBAAUI:00000003|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'Potres.Dal.Model.PotresContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Potres.dbo.User'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:65d71fea-6a3d-46e7-b9df-711abf894152
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:54:06.8063|0HMFQ03RBAAUI:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:54:32.3533||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 15:54:33.8104||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-27 15:54:33.8104||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-27 15:54:33.8236||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-27 15:54:33.8236||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-27 15:54:33.8236||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish | 
+2022-02-27 15:54:42.9122|0HMFQ04AIL1UL:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:54:57.5808|0HMFQ04AIL1UL:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:54:57.5883|0HMFQ04AIL1UL:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:54:57.5883|0HMFQ04AIL1UL:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 15:54:57.6880|0HMFQ04AIL1UL:00000003|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (6ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [User] ([FirstName], [LastName], [Name], [Password])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [Id]
+FROM [User]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); |POST 
+2022-02-27 15:54:57.7277|0HMFQ04AIL1UL:00000003|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'Potres.Dal.Model.PotresContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Potres.dbo.User'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:f10b0027-dd98-43e6-a571-3710ac52b5c0
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 15:54:57.8215|0HMFQ04AIL1UL:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. An error occurred while updating the entries. See the inner exception for details.|POST 
+2022-02-27 16:10:00.5617||0|Potres.WebApi.Program|DEBUG|init main | 
+2022-02-27 16:10:02.5634||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: http://0.0.0.0:6300 | 
+2022-02-27 16:10:02.5808||0|Microsoft.Hosting.Lifetime|INFO|Now listening on: https://0.0.0.0:6400 | 
+2022-02-27 16:10:02.5808||0|Microsoft.Hosting.Lifetime|INFO|Application started. Press Ctrl+C to shut down. | 
+2022-02-27 16:10:02.5808||0|Microsoft.Hosting.Lifetime|INFO|Hosting environment: Production | 
+2022-02-27 16:10:02.5808||0|Microsoft.Hosting.Lifetime|INFO|Content root path: C:\development\potres-backend\Potres.WebApi\bin\Release\netcoreapp3.1\publish | 
+2022-02-27 16:10:06.9067|0HMFQ0CU7L5E0:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 16:10:21.7661|0HMFQ0CU7L5E0:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Help'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 16:10:21.7782|0HMFQ0CU7L5E0:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLat' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 16:10:21.7782|0HMFQ0CU7L5E0:00000003|30000|Microsoft.EntityFrameworkCore.Model.Validation|WARN|No type was specified for the decimal column 'locationLng' on entity type 'Need'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'. |POST 
+2022-02-27 16:23:38.2243|0HMFQ0CU7L5E4:0000002D|20102|Microsoft.EntityFrameworkCore.Database.Command|ERROR|Failed executing DbCommand (9ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [User] SET [Name] = @p0
+WHERE [Id] = @p1;
+SELECT @@ROWCOUNT; |PUT 
+2022-02-27 16:23:52.8446|0HMFQ0CU7L5E4:0000002D|10000|Microsoft.EntityFrameworkCore.Update|ERROR|An exception occurred in the database while saving changes for context type 'Potres.Dal.Model.PotresContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Name', table 'Potres.dbo.User'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:9f18fc85-f721-4542-b117-61cba59d484a
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) An error occurred while updating the entries. See the inner exception for details.|PUT 
+2022-02-27 16:23:52.9971|0HMFQ0CU7L5E4:0000002D|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. An error occurred while updating the entries. See the inner exception for details.|PUT 
+2022-02-27 16:29:09.1819|0HMFQ0CU7L5E8:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
+2022-02-27 16:29:34.6731|0HMFQ0CU7L5E9:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
+2022-02-27 16:29:58.7301|0HMFQ0CU7L5EA:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
+2022-02-27 16:31:06.8359|0HMFQ0CU7L5EF:00000003|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
+2022-02-27 16:31:17.3977|0HMFQ0CU7L5EF:00000007|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
+2022-02-27 16:31:27.2300|0HMFQ0CU7L5EF:0000000B|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
+2022-02-27 16:31:34.5782|0HMFQ0CU7L5EF:0000000F|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
+2022-02-27 16:31:40.9799|0HMFQ0CU7L5EF:00000013|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
+2022-02-27 16:31:59.5166|0HMFQ0CU7L5EF:00000017|1|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|ERROR|An unhandled exception has occurred while executing the request. The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.|POST 
